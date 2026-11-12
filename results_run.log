@@ -1,0 +1,16 @@
+fold 1 ok (3s)
+fold 2 ok (6s)
+fold 3 ok (9s)
+fold 4 ok (12s)
+fold 5 ok (15s)
+config vencedora (validacao): pearson|centered
+top-N/ablacao fold 1 ok (31s)
+top-N/ablacao fold 2 ok (53s)
+top-N/ablacao fold 3 ok (82s)
+top-N/ablacao fold 4 ok (112s)
+top-N/ablacao fold 5 ok (140s)
+pronto: results/results.json (140s)
+
+real	2m20.170s
+user	2m19.042s
+sys	0m0.270s
