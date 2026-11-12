@@ -31,7 +31,7 @@ Escolhemos o KNN porque o resultado é interpretável: dá para abrir uma previs
 
 O MovieLens 100K reúne **100.000 avaliações** de **943 usuários** sobre **1.682 filmes**, coletadas em 1997–1998, em notas de 1 a 5. A matriz usuário × filme tem apenas **6,3% de células preenchidas**, e essa esparsidade explica quase tudo o que acontece depois. A nota média é 3,53, a nota mais comum é 4 (34%) e cada usuário avaliou ao menos 20 filmes (mediana: 65). A distribuição é concentrada: **os 20% de filmes mais avaliados recebem 65% das notas**, e 32% dos filmes têm menos de 10 avaliações.
 
-Os arquivos de dados **não estão neste repositório**: a licença do MovieLens exige autorização para redistribuir. Baixe em <https://grouplens.org/datasets/movielens/100k/> e cite Harper e Konstan (2015).
+Os arquivos de dados **não estão neste repositório**: Baixe em <https://grouplens.org/datasets/movielens/100k/>
 
 ## Como os números foram obtidos
 
